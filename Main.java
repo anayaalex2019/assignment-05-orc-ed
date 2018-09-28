@@ -33,7 +33,7 @@ public class Main {
         //more math(total damage)
         float totalDamage = a + b + c + d + e + f + g + h + i + j;
 
-        System.out.println(totalDamage);
+        System.out.println("Total damage: " + totalDamage);
 
 
     }
